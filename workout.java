@@ -11,9 +11,6 @@ import android.widget.Toast;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Mubeen on 12/18/2017.
- */
 
 public class workout extends SQLiteOpenHelper {
     SQLiteDatabase mdb;
